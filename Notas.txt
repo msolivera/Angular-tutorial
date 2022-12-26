@@ -1,0 +1,5 @@
+para crear un componente de forma autimatica usamos:
+ng g c nombreCarpeta/nombre componente
+g = generate
+c = component
+"ng g c heroes/listado"
